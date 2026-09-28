@@ -1,0 +1,9 @@
+{
+  "type": "FULL_STACK",
+  "frontend": {
+    "path": "client"
+  },
+  "backend": {
+    "path": "server"
+  }
+}
